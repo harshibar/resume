@@ -1,5 +1,4 @@
 # Harshibar's Resume
-=========================
 
 A **one-page**, **one-column column** resume template by Harshibar.
 
