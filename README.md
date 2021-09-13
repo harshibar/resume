@@ -1,18 +1,15 @@
-# Harshibar's Resume
+# harshibar's resume
 
-A **one-page**, **one-column column** resume template by Harshibar.
+A **one-page**, **one-column column** resume template by Harshibar. This template is **minimal**, highlights **details** through links, is a **single page**.
+
 
 Inspired by [Jakes's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs). 
 
-This resume template is **minimal**, highlights **details** through links, is a **single page**.
-
-## Preview
+### Preview
 ![alt text](https://github.com/harshibar/resume/blob/main/harshibar_resume.jpg)
 
-## Dependencies
-
-1. Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
-2. Uses fonts that are usually only available to **Mac** users such as Helvetica Neue Light.
-
-## Availability
+### Availability
 1. **Overleaf**.com - [coming soon]()
+
+### Dependencies
+1. Compiles with **LuaLaTeX**.
