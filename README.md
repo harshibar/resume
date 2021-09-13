@@ -7,6 +7,7 @@ Inspired by [Jakes's Resume](https://www.overleaf.com/latex/templates/jakes-resu
 This resume template is **minimal**, highlights **details** through links, is a **single page**.
 
 ## Preview
+![alt text](https://github.com/harshibar/resume/blob/main/harshibar_resume.jpg)
 
 ## Dependencies
 
