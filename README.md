@@ -9,7 +9,7 @@ Inspired by [Jakes's Resume](https://www.overleaf.com/latex/templates/jakes-resu
 ![alt text](https://github.com/harshibar/resume/blob/main/harshibar_resume.jpg)
 
 ### Availability
-1. **Overleaf**.com - [coming soon]()
+1. **Overleaf**.com - [https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd](https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd)
 
 ### Dependencies
 1. Compiles with **LuaLaTeX**.
