@@ -8,7 +8,7 @@ Inspired by [Jakes's Resume](https://www.overleaf.com/latex/templates/jakes-resu
 ![alt text](https://github.com/harshibar/resume/blob/main/harshibar_resume.jpg)
 
 ### How to Use This Template
-1. Edit online on **Overleaf.com**. This is the easiest way to edit LaTeX docs for beginners. - [https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd](https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd)
+1. Edit online on **Overleaf** (this is the easiest way to edit LaTeX docs for beginners): [https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd](https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd)
 2. `Git clone` this repository and edit offline.
 
 ### Dependencies
